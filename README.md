@@ -1,2 +1,2 @@
-# my-first-project
-这是我在GitHub上面的第一个项目
+# About my first project on GitHub
+这是我在GitHub上提交的我的关于stream流的练习
